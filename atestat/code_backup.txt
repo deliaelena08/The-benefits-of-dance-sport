@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<ul>
+  <li class="navbr_left title"><a href="#">Dans sportiv</a></li>
+  <li class="navbar_right"><a href="#contact">Contact</a></li>
+  <li class="navbar_right dropdown">
+    <a href="#categorii" class="dropbtn">Categorii</a>
+    <div class="dropdown-content">
+      <a href="#samba">Samba</a>
+      <a href="#tango">Tango</a>
+      <a href="#cha-cha-cha">Cha-Cha-Cha</a>
+      <a href="#slow-fox">Slow-Fox</a>
+      <a href="#paso-doble">Paso-Doble</a>
+      <a href="#quick-step">Quick Step</a>
+      <a href="#jive">Jive</a>
+      <a href="#vals-lent">Vals Lent</a>
+      <a href="#rumba">Rumba</a>
+      <a href="#vals-vienez">Vals Vienez</a>
+    </div>
+  </li>
+<li class="navbar_right"><a href="#generalitati">Generalitati</a></li>
+</ul>
+
+<div class="header">
+  <img class="title-image" src="poza.jpg" width="1600" height="800">
+  <div class="display-title-text">
+    <h1 class = "display-title-text-h1">Dansul sportiv</h1>
+  </div>
+</div>
+<table class="content">
+	<tr id="generalitati">
+		<td class="image">
+			<img class="info-image-set-width" src="generalitati.jpeg">
+		</td>
+		<td>
+			<h1 class="center">Ce este dansul?</h1>
+			<div class="info">
+				Dansul sportiv este un sport de echipa constand in parteneriatul intre un baiat si o fata intr-un cuplu de dansatori ce interpreteaza pe muzica diferite ritmuri utilizand tehnici specifice. De-a lungul timpului s-au cristalizat doua sectiuni in functie de caracterul si provenienta dansurilor: sectiunea standard sau europeana (vals lent, tango, vals vienez, slow fox si quick step) si sectiunea dansurilor latino-americane (samba, cha-cha-cha, rumba, paso-doble, jive).
+				<br><br>Competitii de dans au inceput sa fie organizate in anii ’20 in Marea Britanie iar in timp au aparut forurile internationale ce guverneaza aceasta activitate IDSF (International DanceSport Federation – dansul sportiv) pentru amatori si WDC (World Dance Council) pentru profesionisti. In Romania Federatia Romana de Dans Sportiv (FRDS) si-a inceput activitatea in 1991.
+			</div>
+		</td>
+	</tr>
+	<tr id="categorii">
+		<td id="samba">
+			<h1 class="center">Samba</h1>
+			<div class="info">
+				Este un dans cu radacini afro-braziliene, muzica fiind scrisa in masura 2/4 (doi timpi pe masura muzicala) cu accent pe timpul 2. Pentru versiunea de dans sportiv este folosit un tempo de 50-52 de masuri pe minut (BPM).
+				Acesta se traduce printr-o miscare a genunchilor inainte/inapoi (flexie/intindere) impreuna cu miscarea bazinului. Miscarea este asemanatoare cu bounce-ul din hip-hop. Contractiile abdominale sunt ample iar ritmul executat este pe jumatati de timp (2 miscari complete intr-o masura muzicala – se numara quick, quick, quick, quick). Caracterul bounce se regaseste in principal in figurile care se numara slow a slow (3/4, ¼, 1/1) – aceasta numaratoare regasindu-se in miscarea picioarelor. Vedem deci ca in figurile de baza din samba picioarele se misca pe un ritm iar genunchii si bazinul pe alt ritm. Al doilea pas dintr-o figura cu bounce este foarte rapid (un sfert de timp) si se realizeaza cu o tehnica specifica – greutate partiala, adica picorul preia doar o parte din greutatea corpului pentru a se realiza trasnferul rapid, folosind in principal numai partea de jos a corpului (proiectie de greutate). In rest pasii se realizeaza cu transfer total de greutate, talpa lucrand contact progresiv cu podeaua (de la varf catre calcai).
+			</div>
+		</td>
+		<td class="image">
+			<img class="info-image-set-height" src="samba.jpeg">
+		</td>
+	</tr>
+	<tr id="tango">
+		<td class="image">
+			<img class="info-image-set-height" src="tango.jpeg">
+		</td>
+		<td>
+			<h1 class="center">Tango</h1>
+			<div class="info">
+				Tango-ul isi are originile in Spania sau in Maroc si a fost introdus in America Latina (Argentina in special) de catre colonistii spanioli, unde a capatat influente locale (milonga) si africane. Fiind la inceput un dans solo (dansat de un barbat sau femeie) el s-a dezvoltat ca un dans simbolic de lupta intre doi barbati iar apoi a intrat in bordelurile din porturile Argentinei.
+				<br><br>Exista mai multe tipuri de tango: argentinian, francez, guacho si standard (international style). In dansul sportiv ne ocupam de forma cea mai evoluata a acestuia – standard (in dansul sportiv), care este si cea mai spectaculoasa.
+    		</div>
+		</td>
+	</tr>
+	<tr id="cha-cha-cha">
+		<td>
+			<h1 class="center">Cha-cha-cha</h1>
+			<div class="info">
+				Cha-cha-cha-ul este un dans latino-american de origini cubaneze fiind considerat un rezultat direct al muzici compuse de compozitorul si violonistul Enrique Jorrin in anii ’50. Exista tendinta din ce in ce mai pronuntata in ultimul timp de a fi numit mai simpu – “cha-cha”. Acest dans provine din mambo sau chiar rumba. 
+				<br><br>Ceea ce il diferentiaza de predecesoarele sale este inlocuirea unui pas lent (slow) cu un pas triplu (chasse), adica o succesiune rapida de trei pasi din care in cel de-al doilea talpile sunt apropiate, numarat cha-cha-cha.
+			</div>
+		</td>
+		<td class="image">
+			<img class="info-image-set-width" src="cha-cha-cha.jpeg">
+		</td>
+	</tr>
+	<tr id="slow-fox">
+		<td class="image">
+			<img class="info-image-set-width" src="slow-fox.jpeg">
+		</td>
+		<td>
+			<h1 class="center">Slow-fox</h1>
+			<div class="info">
+				Slow-fox-ul este un dans standard ce-si are originile in dansul numit Foxtrot. Numele sau provine de la actorul american de vodevil Harry Fox ce l-a dansat pentru prima oara in 1914 in New York si continea niste pasi ciudati pentru perioada aceea numiti trot (trap, pasi rapizi). Presa locala a venit cu expresia “Fox’s Trot”. 
+				<br><br>Era dansat pe muzica ragtime (premergatoare jazz-ului) si se numara slow-slow-quick-quick. Ulterior dansul este introdus in Europa (salile de dans din Anglia), unde depaseste in popularitate valsul si tango-ul. Se trece la statutul sau de dans social (cu o partenera intr-o pozitie asemanatoare tango-ului) iar muzica este interpretata acum de band-uri mari si este introdus si swing-ul. Se reununta la caracterul sau sincopat initial si se introduc figuri statice pentru a permite sa fie executat in locatii aglomerate. Varietatea de pasi este foarte mare dat fiind potentialul combinatiilor intre pasii slow si quick facandu-l pana in zilele noastre un dans dificil de invatat
+			</div>
+		</td>
+	</tr>
+	<tr id="paso-doble">
+		<td>
+			<h1 class="center">Paso-Doble</h1>
+			<div class="info">
+				Paso-doble este singurul dans latino-american ce nu-si are originile in cultura africana (negrilor din america de sud sau de nord) ci in dansurile folclorice (traditionale) ale Spaniei. Tradus el inseamna “doi pasi” sau “pas dublu” reliefand caracterul sau de mars – numaratoare 1,2 pentru fiecare pas – dreptul, stangul.
+				<br><br>Dansul exprima in principal lupta cunoscuta dintre matador si taur in cadrul coridei. Baiatul este toreadorul iar fata poate reprezenta capa ( bucata de material rosu folosita pentru a atrage taurul), taurul sau chiar toareadorul. Paso-doble capata insa si alte influente spaniole ca flamenco sau alte dansuri tiganesti in care pasii specifici folosind batai in podea cu diferite parti ale talpii exprima un dans erotic de atragere a partenerei. 
+			</div>
+		</td>
+		<td class="image">
+			<img class="info-image-set-width" src="paso-doble.jpeg">
+		</td>
+	</tr>
+	<tr id="quick-step">
+		<td class="image">
+			<img class="info-image-set-width" src="quick_step.jpeg">
+		</td>
+		<td>
+			<h1 class="center">Quick Step</h1>
+			<div class="info">
+				Quick step-ul este un dans colorat, vioi si energetic care inglobeaza pe langa caracterul swing de baza (deplasari largi legate de coborari si urcari ale corpului, aplecari rapide si rotatii) mai multe actiuni ce amintesc de charleston (figuri de picioare spectaculoase), alergari si sarituri. Ritmul de baza este acelasi ca in slow fox si anume slow-quick-quick. 
+				<br><br>Pentru incepatori dansul imprumuta multe figuri din vals lent executate insa pe un ritm mult mai alert. Tehica ridicarii si coborarii este insa usor schimbata in quick step diferenta dintr cele doua situatii nefiind asa mare ca in vals lent. Dansul este ceva mai liniar iar figurile de baza specifice sunt “quarter step to right or to left” si “lock steps” dansandu-se pe ritmul slow-quick-quick-slow. Pozitia partenerilor este specifica dansurilor standard, postura fiind larga, lejera si eleganta.
+			</div>
+		</td>
+	</tr>
+	<tr id="jive">
+		<td>
+			<h1 class="center">Jive</h1>
+			<div class="info">
+				Jive-ul in toate formele lui isi are originile in dansul numit swing. Acesta se formeaza in anii ’20 in cadrul comunitatii afro-americane din New York in stransa legatura cu jazz-ul contemporan foarte la moda in aceste cercuri. In prezent exista peste 50 de forme oficiale de jive printre care Modern, Social, Le Roc, Ceroc, Swing, Jitterbug, Rock’n’Roll, West Coast Swing, East Coast Swing, Lindy Hop, Lindy, Boogaloo sau Jive.
+				<br><br>Dansul sportiv presupune dese schimbari de priza intre parteneri si o tensiune crescuta in palmele acestora. Greutatea corpulul este orientata in fata (pe pernita) inclusiv in pasul rock. Fetele executa intoarceri sau piruete foarte rapide, echilibrul fiind esential. Partea de sus a corpului conduce uneori miscarea catre lateral iar genunchii se ridica formand un unghi drept cu restul corpului.
+			</div>
+		</td>
+		<td class="image">
+			<img class="info-image-set-height" src="jive.jpeg">
+		</td>
+	</tr>
+	<tr id="vals-lent">
+		<td class="image">
+			<img class="info-image-set-width" src="vals_lent.jpg">
+		</td>
+		<td>
+			<h1 class="center">Vals lent</h1>
+			<div class="info">
+				Valsul lent este caracterizat prin inaltari si coborari ample si elegante. Indoirea genunchilor si intinderea acestora trebuie armonizate cu inaltarile si coborarile repetate.Valsul Lent prinde contur dupa Primul Razboi Mondial, cand se decide ca miscarea sa fie: pas, pas, langa. Varianta moderna a acestui dans a fost creata in jurul anului 1910, de catre profesori de dans din Anglia.
+				<br><br>La originea Valsului Lent a fost Boston-ul, dans care a disparut odata cu sfarsitul primului razboi mondial. Boston-ul (importat din SUA) a fost dansat pentru prima data intr-un club select din Anglia, in 1874. Dansul Boston nu seamana deloc cu Valsul Lent de astazi. Pozitia partenerilor era diferita: partenerii dansau unul langa celalalt.
+			</div>
+		</td>
+	</tr>
+	<tr id="rumba">
+		<td>
+			<h1 class="center">Rumba</h1>
+			<div class="info">
+				Rumba, supranumita „perla dansurilor Latino-Americane”, este caracterizata de miscari ample ale bazinului si unduiri elegante ale soldurilor si bratelor. Este un dans care poate fi interpretat drept o pantomima a unui act de iubire.
+				<br><br>Coregrafia Rumba este bazata pe un element de tachinare. Femeia isi ispiteste partenerul, apoi fuge, il respinge. Ea poarta amprenta unei senzualitati agresive, iar el se manifesta defensive. Pasii de rumba construiesc o poveste de dragoste, care nu este intotdeauna implinita. In prezent, rumba se danseaza pe un tempo de bolero, care este mai lent decat ritmul sau initial, pastrandu-si insa eleganta si senzualitatea.		
+			</div>
+		</td>
+		<td class="image">
+			<img class="info-image-set-width" src="rumba.jpeg">
+		</td>
+	</tr>
+	<tr id="vals-vienez">
+		<td class="image">
+			<img class="info-image-set-width" src="vals_vienez.jpg">
+		</td>
+		<td>
+			<h1 class="center">Vals Vienez</h1>
+			<div class="info">
+				Valsul vienez este caracteristic prin rotirile continue si extrem de expresive, rotiri care sunt intrerupte doar de pasii de schimbare efectuati de cei doi dansatori. Bineinteles ca de-a lungul timpului valsul vienez a suferit modificari substantiale, dar cel mai vechi dans si-a pastrat in mare figurile de inceput.
+				<br><br>Anul oficial de nastere a acestui dans nu este cunoscut deoarece nu se cunoaste nici locul in care a aparut. Avand denumirea de vals vienez s-ar crede ca in Austria s-ar fi dansat pentru prima data, dar tari precum Franta, Germania si Polonia isi revendinca si ele titulatura de tara in care a aparut cel mai vechi dans din lume.
+			</div>
+		</td>
+	</tr>
+	<tr id="contact">
+		<td>
+			<h1 class="center">Contact</h1>
+			<div class="info">
+				Dansul are multe beneficii intr-un cat indrumam si pe cei mici in a porni spre tainele dansului.Fiind o activitate fizica in primul rand dansul sportiv presupune un tip combinat de efort aerob si anaerob – o excelenta metoda de a preintampina bolile de tip cardio-vascular sau de control al greutatii (se pot arde de la 200 la 700 calorii pe ora). Exista beneficii aduse aparatului locomotor, dansul dezvoltand o postura si mobilitate deosebite.Aceasta activitate are insa si un puternic impact psihic asupra celor care o practica. Parteneriatul in dansul sportiv dezvolta relatiile inter-umane si o stare generala de bine. Dansatorii au incredere in ei insisi iar copiii pe langa o dezvoltare fizica armonioasa si o personalitate frumoasa au si un colectiv in care invata eticheta specifica dansului de societate – asa cum era numit el acum o vreme. Pentru mai multe detalii va rog sa contactati Federatia romana de Dans sportiv sau cel ai apropiat club din orasul dvs.
+			</div>
+		</td>
+		<td class="image">
+			<img class="info-image-set-width" src="contact.jpeg">
+		</td>
+	</tr>
+</table>
+<br>
+<footer align="center" style="background-color: #f3f3f3;">
+	Adresa: Str. Vasile Conta, nr. 16, et. 6, cam. 603, sector 2, Bucuresti, cod postal 020954
+	<br>Telefon: 021.317.00.71
+	<br>Email: frds@dancesport.ro
+</footer>
+</div>
+</body>
+</html>

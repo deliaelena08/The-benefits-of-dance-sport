@@ -1,0 +1,108 @@
+body {margin:0; background-image: linear-gradient(to bottom, #D8D8D8, white);}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #D8D8D8;
+  top: 0;
+  width: 100%;
+  display: inline-block;
+  z-index: 2;
+}
+.navbr_left {
+	float: left;
+}
+.navbar_right {
+	float: right;
+}
+
+li a, .dropbtn {
+  font-family: "Segoe UI";
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.title), .dropdown:hover .dropbtn {
+  background-color: #bbb;
+}
+.title {
+  pointer-events: none;
+}
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #d8d8d8;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 2;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.title-image {
+  max-width:100%;
+  height:auto;
+  opacity: 0.75
+}
+img {
+  vertical-align:middle
+}
+.header {
+  position: relative;
+  z-index: 1;
+}
+.display-title-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding:12px 24px!important
+  
+}
+.display-title-text-h1 {
+	font-size:40px
+}
+.content {
+margin-left:auto;
+margin-right:auto
+}
+td {
+padding: 32px 24px;
+width: 49%;
+}
+.center {
+	text-align: center;
+}
+.info {
+	font-size: 25px;
+}
+.info-image-set-width {
+	width: 80%;
+	height: auto;
+}
+
+.info-image-set-height {
+	height: 80%;
+	width: auto;
+}
+.image{
+	text-align: center;
+}
